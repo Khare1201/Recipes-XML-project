@@ -1,0 +1,119 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="recipe.css"?>
+<?xml-stylesheet type="text/xsl" href="recipe.xslt"?>
+<!--<!DOCTYPE Recipe SYSTEM "recipe.dtd">-->
+<Recipe>
+<recipe>
+    <rname>Roasted Chicken Thighs with Black Olives, Capers and Rosemary</rname>
+    <serves>4</serves>
+    <ingredients>8 to 10 Chicken Thighs</ingredients>
+    <ingredients>Approx. 1 quart buttermilk</ingredients>
+    <ingredients>4 cups vegetable oil for deep frying</ingredients>
+    <ingredients>1 1/2 cups all-purpose flour</ingredients>
+    <ingredients>1/4 cup cornmeal</ingredients>
+    <ingredients>1 Tbs finely minced fresh rosemary (optional but good)</ingredients>
+    <ingredients>Pinch salt</ingredients>
+    <ingredients>1/2 tsp ground cayenne</ingredients>
+    <ingredients>Salt to taste after fryingPinch salt</ingredients>
+    <procedure>Get started by cutting the tops and bottoms off of the onions, then peeling them and cutting them crosswise into rings about 1/2-inch thick. </procedure>
+    <procedure>Separate the slices onions into individual rings and place those into a large baking dish and add enough buttermilk to just about cover. </procedure>
+    <procedure>Separate the slices onions into individual rings and place those into a large baking dish and add enough buttermilk to just about cover. </procedure>
+    <procedure>
+Let the onions soak in the buttermilk for at least 15 minutes and, while that's happening, add 4 cups of vegetable oil to a deep stainless steel pot on the stovetop and slowly bring that up to 360 degrees. 
+</procedure>
+    <procedure>Use a bowl to combine 1 1/2 cups all-purpose flour with 1/4 cup cornmeal and 1 optional Tbs finely chopped fresh rosemary and a pinch of cayenne pepper and a pinch of salt and mix it up. </procedure>
+    <procedure>Use a deep fry thermometer to keep an eye on the temperature of the oil and also preheat the oven to 200 degrees and line a baking tray with paper towels, with a cooling rack on top, so you can keep the onion rings warm in the oven as you go. </procedure>
+    <procedure>When the oil is hot enough, dredge 5-6 onion rings at a time in the flour mixture and, once the oil does hit 360 degrees, very carefully add 1 onion ring at a time and let those fry along until they turn a nice golden brown. </procedure>
+    <procedure>You may have to adjust the heat a little bit as you're adding the onion rings so the oil stays at 360 degrees and once they're a nice golden brown, take them out of the oil and place them on the cooling rack, season with salt to taste and place the tray into the oven to keep warm as you're doing the other onion rings.</procedure>
+    
+    <hint>Use the leftover buttermilk for something like cornbread or biscuits instead of tossing it out.
+You may need to sift the dredging flour at some point during the process or add more flour as needed.
+</hint>
+    
+    <madeby>Dan Eaton</madeby>
+    <photo type="png">recipe1.png</photo>
+<!--    <photo type="png">pic/onionrig.png</photo>-->
+  
+<!--
+    <img src="pic/onionring.png"/>
+    </photo>
+-->
+    </recipe>
+    <recipe>
+    <rname>Italian Sausage, Zucchini and Rice Soup</rname>
+    <serves>6</serves>
+    <ingredients>Italian Sausage, Zucchini and Rice Soup</ingredients>
+    <ingredients>1 cup water</ingredients>
+    <ingredients>1/2 cup medium grain white rice (uncooked)</ingredients>
+    <ingredients>2 Italian sausage patties (or 2 links) crumbled</ingredients>
+    <ingredients>3/4-1 cup diced onion</ingredients>
+    <ingredients>2 medium zucchini, deseeded and cubed (see hints below)</ingredients>
+    <ingredients>olive oil for cooking veggies and sausage</ingredients>
+    <ingredients>1 cup canned diced tomatoes</ingredients>
+    <ingredients>salt and pepper to taste</ingredients>
+        <ingredients>grated parmesan cheese for garnish (optional)</ingredients>
+        <ingredients>dollop of basil pesto for garnish (optional)</ingredients>
+    <procedure>Add 4 cups of chicken or vegetable stock and 1 cup of water to a deep, heavy bottomed pot, add 1/2 cup medium grain white rice, bring that up to a simmer and let it cook along without a lid on top. </procedure>
+    <procedure>Once the rice is in the pot, add a splash of olive oil to a large, heavy bottomed soup pot, and cook the crumbled Italian sausage to brown that up. </procedure>
+    <procedure>Then take the sausage out of the pot and add about 3/4 cup of diced onion and 2 medium size, deseeded and diced zucchini and cook those to soften. </procedure>
+    <procedure>
+Add a little more olive oil to the vegetables if they need it and keep your eye on the rice, you want it to be just soft to the tooth, it'll take about 15 minutes to cook.
+</procedure>
+    <procedure>After a few minutes, when the zucchini is tender crisp, add 1 cup diced canned tomato, add the sausage back to the pot. Then very carefully add the stock and rice and let it simmer along for a few minutes, season to taste and it is good to go. </procedure>
+    <procedure>Serve it up with a sprinkling of grated parmesan cheese and an optional dollop of basil pesto. </procedure>
+    
+    <hint>Cut the ends off of the zucchini, cut then into quarters lengthwise, carefully slice off the seed section and continue to cut the quarters into 1/2 cubes.
+</hint>
+        <hint>Plan on eating this right away, otherwise the rice will continue to absorb the liquid. Add more stock or water if you need to.
+</hint>
+        <hint>Start the sausage at the same time (or before) you get the rice going to make sure the rice isn't done before the rest
+</hint>
+        <hint>Buy basil pesto premade or make your own by pureeing a good handful of basil leaves with a few walnuts or pinenuts, a small clove of garlic, a bit of grated parmesan cheese and just enough olive oil to give it a pesto consistency.
+</hint>
+    
+    <madeby>Dan Eaton</madeby>
+    <photo type="png">recipe2.png</photo>
+<!--    <photo type="png">pic/onionrig.png</photo>-->
+  
+<!--
+    <img src="pic/onionring.png"/>
+    </photo>
+-->
+    </recipe>
+    <recipe>
+    <rname>Chicken masala</rname>
+    <serves>4</serves>
+    <ingredients>Chicken 1 Kg</ingredients>
+    <ingredients>Clarified Butter/ Butter</ingredients>
+    <ingredients>Chicken Masala, Red Chilli Powder, Turmeric Powder</ingredients>
+    <ingredients>1 teaspoon Ginger Paste</ingredients>
+    <ingredients>1 teaspoon Garlic Paste</ingredients>
+    <ingredients>4 Bay leaves</ingredients>
+    <ingredients>Cinnamon Stick (3 to 4 small pieces)</ingredients>
+    <ingredients>Cloves</ingredients>
+    <ingredients>4 Onion, chopped or minced</ingredients>
+        <ingredients>3 tomatoes, puried</ingredients>
+        <ingredients>2 teaspoon Chilli powder</ingredients>
+    <procedure>In a large pan or kadhai, heat 2 tablespoon of clarified butter and 2 tablespoon of oil </procedure>
+    <procedure>Add red chillies, ginger, garlic paste and all the whole spices (bay leaves, cinnamon, cloves, cardamom and peppercorns). Saute for a minute or two and add minced/ chopped onions. Once the onions turn translucent, add the tomatoes. Mix well. </procedure>
+    <procedure>Cover and cook till the tomatoes start breaking down and the mixture starts leaving oil at the edges. Switch off the flame and set aside to cool. </procedure>
+    <procedure>
+Once cool enough to handle, fish out as many whole spices as possible, and blend the mixture to a smooth paste in a food processor or blender.
+</procedure>
+    <procedure>In the same pan, heat the remaining butter and add the blended paste prepared in step #4. Add garam masala powder, chili powder, turmeric, ketchup, salt along with 1/2 cup water. Bring this to a boil.</procedure>
+    <procedure>Once the curry comes to a boil, simmer and cook for 30 minutes, till the oil separates slightly. Cut the paneer into bite sized pieces, add it to the gravy and mix gently. </procedure>
+    
+    <hint>Chicken can be marinated with dry powders for about an hour
+</hint>
+    
+    <madeby>Shivam Khare</madeby>
+    <photo type="jpg">recipe3.png</photo>
+<!--    <photo type="png">pic/onionrig.png</photo>-->
+  
+<!--
+    <img src="pic/onionring.png"/>
+    </photo>
+-->
+    </recipe>
+    
+</Recipe>
